@@ -122,7 +122,7 @@ The final design must be reviewed and signed by a licensed professional in accor
 ## 📬 Support
 
 Questions or suggestions?  
-📧 [adquesada@itcr.ac.cr](mailto:adquesada@itcr.ac.cr)
+📧 [aquesadam@cfia.or.cr](mailto:aquesadam@cfia.or.cr)
 
 ---
 
