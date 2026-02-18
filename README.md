@@ -123,7 +123,7 @@ El diseño final debe ser revisado y firmado por un profesional responsable conf
 ## 📬 Soporte
 
 ¿Consultas o sugerencias?  
-📧 [adquesada@itcr.ac.cr](mailto:adquesada@itcr.ac.cr)
+📧 [aquesadam@cfia.or.cr](mailto:aquesadam@cfia.or.cr)
 
 ---
 
